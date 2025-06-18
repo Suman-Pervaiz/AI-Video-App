@@ -41,6 +41,11 @@ A full-stack web application that allows users to generate videos by giving prom
 
 ---
 
+## Deployment
+- vercel
+
+--
+
 ## 📌 Assignment Note
 
 This repository was created as part of a project submission.  
