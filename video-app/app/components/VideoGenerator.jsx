@@ -19,7 +19,7 @@ export default function VideoGenerator() {
     console.log("🚀 Sending request to backend with:", requestBody);
 
     try {
-      const response = await fetch("http://localhost:5000/api/generate-video", {
+      const response = await fetch("/api/generate-video", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(requestBody),
