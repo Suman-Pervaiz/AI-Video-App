@@ -61,7 +61,7 @@ export default function VideoGenerator() {
           ✨ AI Video Generator
         </h1>
 
-        {/* --- Tabs --- */}
+        {/* Tabs section */}
         <div className="flex justify-center mb-8 bg-gray-100 rounded-xl p-2 shadow-inner">
           <button
             className={`cursor-pointer px-6 py-3 text-lg font-semibold rounded-xl transition duration-300 ease-in-out ${
